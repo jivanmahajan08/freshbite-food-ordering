@@ -1,0 +1,29 @@
+FRESHBITE – ONLINE FOOD ORDERING
+Project Report
+
+Objective
+The objective of this project is to build a responsive frontend food-ordering website where users can explore restaurants and food items, add products to a cart, calculate totals, and complete a simulated checkout process.
+
+Technologies Used
+HTML5 was used for page structure and semantic content. CSS3 was used for the warm, food-focused design and responsive layouts. JavaScript was used for food data, filtering, cart functionality, quantity controls, price calculation, simulated login/register, checkout, and form interactions. LocalStorage is used to retain cart data in the browser.
+
+Key Features
+1. Home page with hero banner and offer.
+2. Restaurant listing with cuisine, rating and delivery information.
+3. Food menu with category and dietary filters.
+4. Add-to-cart and quantity adjustment.
+5. Automatic subtotal, delivery fee and total calculation.
+6. Checkout with address, delivery time and payment simulation.
+7. Simulated login/register.
+8. About Us and Contact Us sections.
+9. Responsive design for desktop and mobile.
+10. Toast notifications for user actions.
+
+Learning Outcomes
+This project improved practical understanding of HTML structure, CSS layouts, responsive design, JavaScript arrays and objects, DOM manipulation, event handling, forms, and browser LocalStorage.
+
+Challenges
+The main challenges were connecting the menu data to the cart, keeping totals updated when quantities changed, and making the interface responsive on small screens. These were handled with reusable JavaScript functions and CSS media queries.
+
+Conclusion
+FreshBite demonstrates a complete frontend food-ordering experience without requiring a backend database. The project focuses on usability, responsive design, and core e-commerce interactions.
